@@ -1,0 +1,6 @@
+dataset.jsonl
+processed/
+*.DS_Store
+__pycache__/
+*.pyc
+.env
