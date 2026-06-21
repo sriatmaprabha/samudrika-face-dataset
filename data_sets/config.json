@@ -1,0 +1,5 @@
+{
+  "nvidia_api_key": "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",
+  "nvidia_model": "meta/llama-3.1-8b-instruct",
+  "nvidia_base_url": "https://integrate.api.nvidia.com/v1"
+}

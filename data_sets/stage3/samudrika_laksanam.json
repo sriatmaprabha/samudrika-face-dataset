@@ -1,0 +1,902 @@
+{
+  "book": "Samudrika Laksanam",
+  "key": "samudrika_laksanam",
+  "approved": [
+    {
+      "page": "23",
+      "term": "Physiognomy",
+      "original": "It also gives, in addition to a few particulars relating to Physiognomy, some informations usually found in the books on the science of palmistry.",
+      "simple_explanation": "Physiognomy is the study of facial features and their relationship to a person's character. Palmistry is the study of hand lines and their relationship to a person's life.",
+      "what_it_means": "This connection between physiognomy and palmistry suggests that a person's outer appearance and inner nature are closely linked."
+    },
+    {
+      "page": "23",
+      "term": "Palmistry",
+      "original": "It may be mentioned in this connection that palmistry originally formed part of physiognomy and as such some portions of palmistry are usually found in the works on Physiognomy.",
+      "simple_explanation": "Palmistry is an ancient practice that originated from physiognomy, studying the relationship between hand lines and a person's life.",
+      "what_it_means": "This historical connection highlights the importance of understanding the interconnectedness of human nature and the physical world."
+    },
+    {
+      "page": "40",
+      "term": "Mount of Jupiter",
+      "original": "Six places should be lefty or elevated (high): these are the forehead, shoulders, belly or paunch, arm-pits, chest and back of the palm.",
+      "simple_explanation": "The Mount of Jupiter is a raised area on the palm associated with the forehead. It's one of six elevated areas on the palm.",
+      "what_it_means": "A prominent Mount of Jupiter indicates a person's strong sense of ambition and desire for power."
+    },
+    {
+      "page": "40",
+      "term": "Head Line",
+      "original": "If it appears as a double-head with a dent in the middle he will not have wealth and his fate will be bent on sinful actions.",
+      "simple_explanation": "The Head Line is a line on the palm that indicates a person's thought process and mental clarity. A double-headed line with a dent suggests mental instability.",
+      "what_it_means": "A double-headed Head Line with a dent reveals a person's tendency towards self-destruction and lack of financial stability."
+    },
+    {
+      "page": "48",
+      "term": "Mount of Venus",
+      "original": "If the palm is elevated without being sunk he will give away his wealth.",
+      "simple_explanation": "The Mount of Venus is a raised area on the palm associated with love and relationships. An elevated palm suggests a person's generosity and love for others.",
+      "what_it_means": "A person with an elevated palm is likely to be generous and charitable, often giving away their wealth to help others."
+    },
+    {
+      "page": "48",
+      "term": "Palm hair",
+      "original": "If it is hairy palm indicates that he well earn his livelihood committing sinful deeds and that he will also be stability.",
+      "simple_explanation": "Palm hair is a characteristic of the palm that can indicate a person's earning potential and moral character. Hairy palms suggest a person's ability to earn a living through questionable means.",
+      "what_it_means": "A person with a hairy palm may earn their livelihood through dishonest means, but will also experience stability in their life."
+    },
+    {
+      "page": "48",
+      "term": "Palm lines",
+      "original": "One should not have too many lines on the palm and those visible should be this and red.",
+      "simple_explanation": "Too many lines on the palm can indicate a person's complexity and emotional depth. Visible lines should be clear and red.",
+      "what_it_means": "A person with too many lines on their palm may be emotionally complex, but a clear and red line suggests a strong and healthy emotional foundation."
+    },
+    {
+      "page": "49",
+      "term": "Comet or Disease Line",
+      "original": "Among the lions on the right palm of there appears the mark of a comet (asteria) or disease (celebra) he will always be receiving money and also giving it away: the sign of a fish, he will have vast riches, but close flated.",
+      "simple_explanation": "This line suggests a person who constantly receives and gives away money, possibly due to their generosity or a tendency to attract financial fluctuations.",
+      "what_it_means": "This line reveals a person's tendency to attract financial fluctuations, possibly due to their generosity or a tendency to attract wealth and then lose it."
+    },
+    {
+      "page": "49",
+      "term": "Philosopher's Line",
+      "original": "It is also said that royal persons will have one or more of these signs on their palm, and if there is a line without any break from the middle of the wrist to the tip of the middle finger he will have great wisdom and will be a philosopher; and if it crops at the base of the middle finger he will be a scholar (and also the possessor of vast riches and land according to another authority).",
+      "simple_explanation": "This line indicates a person with great wisdom, who may become a philosopher or scholar.",
+      "what_it_means": "This line reveals a person's potential for great wisdom, possibly leading to a career as a philosopher or scholar."
+    },
+    {
+      "page": "49",
+      "term": "Wealth Line",
+      "original": "If that line reaches the base of the little finger he will have wealth (and enjoy kinghip and ejoy the gathering of women according to another authority).",
+      "simple_explanation": "This line suggests a person who will have wealth and possibly enjoy royal or luxurious life.",
+      "what_it_means": "This line reveals a person's potential for wealth and possibly a life of luxury or royalty."
+    },
+    {
+      "page": "49",
+      "term": "Ornament Line",
+      "original": "If it reaches the base of the ring finger he will wear ornaments; but will also be mental suffering.",
+      "simple_explanation": "This line indicates a person who may wear ornaments but will also experience mental suffering.",
+      "what_it_means": "This line reveals a person's tendency to wear luxurious items but may also struggle with mental health issues."
+    },
+    {
+      "page": "49",
+      "term": "Hypocrite Line",
+      "original": "If it reaches the base of the index finger he will be hancirious and also commit wheltery; and of the thumb enjoyers of many women and that his words will",
+      "simple_explanation": "This line suggests a person who may be hypocritical, commit adultery, and enjoy multiple relationships.",
+      "what_it_means": "This line reveals a person's tendency to be hypocritical, engage in infidelity, and enjoy multiple relationships."
+    },
+    {
+      "page": "50",
+      "term": "Wealth Line",
+      "original": "If such a line stops in the middle of the palm he will have wealth and progeny.",
+      "simple_explanation": "This line indicates a person who will have wealth and possibly children.",
+      "what_it_means": "This line reveals a person's potential for wealth and possibly a family with children."
+    },
+    {
+      "page": "50",
+      "term": "Twin Treasures Line",
+      "original": "If after stopping in the middle of the palm, benethes off into three lines each reaching the base of the middle finger, ring finger and little finger respectively, he will have twin treasures tangible wealth and pedne riches; and if it branches into two he will have vast riches or be a religious head, adept in all the arts.",
+      "simple_explanation": "This line suggests a person who will have two types of wealth: tangible and intangible, or possibly become a religious leader.",
+      "what_it_means": "This line reveals a person's potential for dual wealth or a career as a religious leader."
+    },
+    {
+      "page": "50",
+      "term": "Marriage Lines",
+      "original": "If there is one line below the little finger at the edge of the pikes he will have one marriage; two lines two marriages; three up to five; beyond that these lines indicate only consultes and not married wives.",
+      "simple_explanation": "Translation: If there is one line below the little finger at the edge of the palm, he will have one marriage; two lines, two marriages; three or more lines, multiple marriages or relationships.",
+      "what_it_means": "This line reveals a person's potential for one or multiple marriages, depending on the number of lines."
+    },
+    {
+      "page": "page 50",
+      "term": "Lines below the thumb",
+      "original": "Similar lines below the thumb indicate sons, yeogey.",
+      "simple_explanation": "In palmistry, lines below the thumb can indicate the presence of sons. This is a general indicator and not a definitive prediction.",
+      "what_it_means": "The presence of lines below the thumb suggests a person may have children, possibly sons, in their life."
+    },
+    {
+      "page": "page 50",
+      "term": "Line starting below the little finger",
+      "original": "If the line starting below the little finger reaches the base of the index finger (or the thumb according to one authority) be will live for hundred years and will also have wealth.",
+      "simple_explanation": "A line from the little finger to the index finger can indicate a long life and wealth. This is a general prediction and not a guarantee.",
+      "what_it_means": "A person with this line may live a long life, possibly up to 100 years, and enjoy wealth and prosperity."
+    },
+    {
+      "page": "page 50",
+      "term": "Line starting below the little finger",
+      "original": "If it reaches the base of the middle finger he will live for eighty years; the ring finger-fifty years; if it does not go beyond the little finger his life will be only twenty years.",
+      "simple_explanation": "A line from the little finger to the middle finger can indicate a life of 80 years. A line to the ring finger indicates 50 years, and no line indicates 20 years.",
+      "what_it_means": "A person with this line may live a life of 80 years, or possibly 50 years, depending on the extent of the line."
+    },
+    {
+      "page": "page 50",
+      "term": "Chain-like line on the thumb",
+      "original": "If the lower part of the thumb has the line like a chain he will not be married up to his fortieth year, but will have two wives after that and six children.",
+      "simple_explanation": "A chain-like line on the thumb can indicate delayed marriage and multiple relationships.",
+      "what_it_means": "A person with this line may experience delayed marriage and have multiple relationships, possibly with two wives and six children."
+    },
+    {
+      "page": "page 50",
+      "term": "Middle finger position",
+      "original": "If the middle finger is not on the level but lower he will not have any patrimony.",
+      "simple_explanation": "A middle finger that is lower than the others can indicate a lack of inheritance.",
+      "what_it_means": "A person with this feature may not inherit property or wealth from their family."
+    },
+    {
+      "page": "page 51",
+      "term": "Little finger length",
+      "original": "If the little finger is of the length of the ring finger he will live for hundred years, if it reaches above the third joint of the ring finger, his life will be ninety-nine years; if it reaches the third joint, eighty-nine years, if it is below the third and above the second, seventy-seven years; if it reaches the second joint sixty-five years.",
+      "simple_explanation": "The length of the little finger can indicate the length of a person's life. Longer fingers indicate longer lives.",
+      "what_it_means": "A person with a longer little finger may live a longer life, possibly up to 100 years."
+    },
+    {
+      "page": "page 52",
+      "term": "Ring finger line",
+      "original": "Ring finger-In the first joint if there is a single line, he will have many ornaments and if many lines, scholarship.",
+      "simple_explanation": "A single line on the ring finger can indicate many ornaments, while multiple lines indicate scholarship.",
+      "what_it_means": "A person with a single line on the ring finger may have many material possessions, while multiple lines indicate intellectual pursuits."
+    },
+    {
+      "page": "page 52",
+      "term": "Little finger line",
+      "original": "Little finger-A single line in the first joint indicates that he will be deceitful; more than one, he will have passions couched (makeovers) (or a humorous tract, wife's years as a variant reading).",
+      "simple_explanation": "A single line on the little finger can indicate deceitfulness, while multiple lines indicate passionate relationships.",
+      "what_it_means": "A person with a single line on the little finger may be prone to deceitfulness, while multiple lines indicate a person with strong emotions and relationships."
+    },
+    {
+      "page": "61",
+      "term": "Fingers on the left hand",
+      "original": "Fingers on the left hand-On the thumb he will have (or commit) sins; on the index finger, sluggish mentality or small in intelligence; on the middle finger short life; on the ring finger poverty and on the little finger sterility.",
+      "simple_explanation": "This teaches that the fingers on the left hand reveal information about the person's life, including their potential for sin, intelligence, lifespan, financial situation, and fertility.",
+      "what_it_means": "The thumb indicates sinful tendencies, the index finger suggests a sluggish mentality, the middle finger reveals a short life, the ring finger points to poverty, and the little finger signifies sterility."
+    },
+    {
+      "page": "64",
+      "term": "Middle finger",
+      "original": "If it comes to the middle of the middle finger, he will be a ruler of the world; to the third joint of the same a manster endowed with wisdom; the middle of the finger, will have goodness and prosperity; the base of the same, a wight roaming about; and if to the middle of the palm destitution and complete poverty.",
+      "simple_explanation": "Translation: If the middle finger is long, the person will be a ruler of the world, wise, and prosperous. If the base of the finger is long, they will be poor.",
+      "what_it_means": "A long middle finger indicates a person who will rule the world, be wise, and experience prosperity, while a short base suggests poverty and financial struggles."
+    },
+    {
+      "page": "64",
+      "term": "Length of life",
+      "original": "The lengths of life may also be ascertained by another way which is as follows: The length measured from the right shoulder to the tip of the middle finger of the right hand is to be doubled.",
+      "simple_explanation": "This teaches that the length of life can be calculated by measuring from the right shoulder to the tip of the middle finger and doubling the result.",
+      "what_it_means": "The length of life can be calculated by measuring from the right shoulder to the tip of the middle finger and doubling the result, providing a numerical prediction of one's lifespan."
+    },
+    {
+      "page": "65",
+      "term": "Break in the Life Line",
+      "original": "But if there is a break like a cross in the line, then she will have lifelong poverty.",
+      "simple_explanation": "This teaches that a break in the Life Line indicates lifelong poverty.",
+      "what_it_means": "A break in the Life Line suggests that the person will experience lifelong poverty and financial struggles."
+    },
+    {
+      "page": "79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "Translation: If a woman has the sign of a manatika on her palm, she will be childless.",
+      "what_it_means": "The presence of a manatika sign on a woman's palm indicates that she will be childless, suggesting infertility or a lack of children in her life."
+    },
+    {
+      "page": "79",
+      "term": "Manatika",
+      "original": "The sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "Translation: The sign of a manatika on the palm indicates that the person will be childless.",
+      "what_it_means": "The presence of a manatika sign on a person's palm suggests that they will be childless, indicating infertility or a lack of children in their life."
+    },
+    {
+      "page": "79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "Translation: If a woman has the sign of a manatika on her palm, she will be childless.",
+      "what_it_means": "The presence of a manatika sign on a woman's palm indicates that she will be childless, suggesting infertility or a lack of children in her life."
+    },
+    {
+      "page": "79",
+      "term": "Manatika",
+      "original": "The sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "Translation: The sign of a manatika on the palm indicates that the person will be childless.",
+      "what_it_means": "The presence of a manatika sign on a person's palm suggests that they will be childless, indicating infertility or a lack of children in their life."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This can be due to various reasons, including infertility or a personal choice.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person may face challenges in conceiving or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This can be due to various reasons, including infertility or a personal choice.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person may face challenges in conceiving or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This can be due to various reasons, including infertility or a personal choice.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person may face challenges in conceiving or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This can be due to various reasons, including infertility or a personal choice.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person may face challenges in conceiving or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This can be due to various reasons, including infertility or a personal choice.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person may face challenges in conceiving or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This can be due to various reasons, including infertility or a personal choice.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person may face challenges in conceiving or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This can be due to various reasons, including infertility or a personal choice.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person may face challenges in conceiving or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This can be due to various reasons, including infertility or a personal choice.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person may face challenges in conceiving or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika sign is believed to indicate a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The presence of a manatika sign suggests that a woman may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika sign is believed to indicate a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The presence of a manatika sign suggests that a woman may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika sign is believed to indicate a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The presence of a manatika sign suggests that a woman may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika sign is believed to indicate a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The presence of a manatika sign suggests that a woman may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika sign is believed to indicate a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The presence of a manatika sign suggests that a woman may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika sign is believed to indicate a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The presence of a manatika sign suggests that a woman may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika sign is believed to indicate a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The presence of a manatika sign suggests that a woman may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika sign is believed to indicate a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The presence of a manatika sign suggests that a woman may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person will not have children. This is based on the study of the palm's lines and markings.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person will face challenges or difficulties related to childbearing or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person will not have children. This is based on the study of the palm's lines and markings.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person will face challenges or difficulties related to childbearing or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person will not have children. This is based on the study of the palm's lines and markings.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person will face challenges or difficulties related to childbearing or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person will not have children. This is based on the study of the palm's lines and markings.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person will face challenges or difficulties related to childbearing or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person will not have children. This is based on the study of the palm's lines and markings.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person will face challenges or difficulties related to childbearing or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person will not have children. This is based on the study of the palm's lines and markings.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person will face challenges or difficulties related to childbearing or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person will not have children. This is based on the study of the palm's lines and markings.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person will face challenges or difficulties related to childbearing or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person will not have children. This is based on the study of the palm's lines and markings.",
+      "what_it_means": "The presence of a manatika on the palm may indicate that the person will face challenges or difficulties related to childbearing or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person's inability to have children. This is often seen as a negative feature.",
+      "what_it_means": "A person with a manatika sign on their palm may struggle with infertility or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person's inability to have children. This is often seen as a negative feature.",
+      "what_it_means": "A person with a manatika sign on their palm may struggle with infertility or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person's inability to have children. This is often seen as a negative feature.",
+      "what_it_means": "A person with a manatika sign on their palm may struggle with infertility or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person's inability to have children. This is often seen as a negative feature.",
+      "what_it_means": "A person with a manatika sign on their palm may struggle with infertility or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person's inability to have children. This is often seen as a negative feature.",
+      "what_it_means": "A person with a manatika sign on their palm may struggle with infertility or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person's inability to have children. This is often seen as a negative feature.",
+      "what_it_means": "A person with a manatika sign on their palm may struggle with infertility or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person's inability to have children. This is often seen as a negative feature.",
+      "what_it_means": "A person with a manatika sign on their palm may struggle with infertility or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign that may indicate a person's inability to have children. This is often seen as a negative feature.",
+      "what_it_means": "A person with a manatika sign on their palm may struggle with infertility or may choose not to have children."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry symbol indicating childlessness. Its presence suggests the person may struggle with fertility or family planning.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges related to family, children, or fertility, requiring the person to adapt and find alternative paths in life."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry symbol indicating childlessness. Its presence suggests the person may struggle with fertility or family planning.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges related to family, children, or fertility, requiring the person to adapt and find alternative paths in life."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry symbol indicating childlessness. Its presence suggests the person may struggle with fertility or family planning.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges related to family, children, or fertility, requiring the person to adapt and find alternative paths in life."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry symbol indicating childlessness. Its presence suggests the person may struggle with fertility or family planning.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges related to family, children, or fertility, requiring the person to adapt and find alternative paths in life."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry symbol indicating childlessness. Its presence suggests the person may struggle with fertility or family planning.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges related to family, children, or fertility, requiring the person to adapt and find alternative paths in life."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry symbol indicating childlessness. Its presence suggests the person may struggle with fertility or family planning.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges related to family, children, or fertility, requiring the person to adapt and find alternative paths in life."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry symbol indicating childlessness. Its presence suggests the person may struggle with fertility or family planning.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges related to family, children, or fertility, requiring the person to adapt and find alternative paths in life."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry symbol indicating childlessness. Its presence suggests the person may struggle with fertility or family planning.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges related to family, children, or fertility, requiring the person to adapt and find alternative paths in life."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may struggle with fertility or have difficulty having children.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may struggle with fertility or have difficulty having children.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may struggle with fertility or have difficulty having children.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may struggle with fertility or have difficulty having children.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may struggle with fertility or have difficulty having children.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may struggle with fertility or have difficulty having children.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may struggle with fertility or have difficulty having children.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may struggle with fertility or have difficulty having children.",
+      "what_it_means": "The presence of a manatika on the palm may indicate challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The absence of a manatika sign on the palm may indicate that the person will face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The absence of a manatika sign on the palm may indicate that the person will face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The absence of a manatika sign on the palm may indicate that the person will face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The absence of a manatika sign on the palm may indicate that the person will face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The absence of a manatika sign on the palm may indicate that the person will face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The absence of a manatika sign on the palm may indicate that the person will face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The absence of a manatika sign on the palm may indicate that the person will face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person's ability to have children. Its presence or absence can reveal their fertility.",
+      "what_it_means": "The absence of a manatika sign on the palm may indicate that the person will face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry term for a specific sign or mark on the palm. Its presence may indicate difficulties in having children.",
+      "what_it_means": "The presence of a manatika on the palm may suggest challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry term for a specific sign or mark on the palm. Its presence may indicate difficulties in having children.",
+      "what_it_means": "The presence of a manatika on the palm may suggest challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry term for a specific sign or mark on the palm. Its presence may indicate difficulties in having children.",
+      "what_it_means": "The presence of a manatika on the palm may suggest challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry term for a specific sign or mark on the palm. Its presence may indicate difficulties in having children.",
+      "what_it_means": "The presence of a manatika on the palm may suggest challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry term for a specific sign or mark on the palm. Its presence may indicate difficulties in having children.",
+      "what_it_means": "The presence of a manatika on the palm may suggest challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry term for a specific sign or mark on the palm. Its presence may indicate difficulties in having children.",
+      "what_it_means": "The presence of a manatika on the palm may suggest challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry term for a specific sign or mark on the palm. Its presence may indicate difficulties in having children.",
+      "what_it_means": "The presence of a manatika on the palm may suggest challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a palmistry term for a specific sign or mark on the palm. Its presence may indicate difficulties in having children.",
+      "what_it_means": "The presence of a manatika on the palm may suggest challenges in conceiving or carrying a pregnancy to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This sign is often associated with a lack of fertility or reproductive issues.",
+      "what_it_means": "A person with a manatika sign may struggle with fertility or reproductive issues, which can impact their family life and relationships."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This sign is often associated with a lack of fertility or reproductive issues.",
+      "what_it_means": "A person with a manatika sign may struggle with fertility or reproductive issues, which can impact their family life and relationships."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This sign is often associated with a lack of fertility or reproductive issues.",
+      "what_it_means": "A person with a manatika sign may struggle with fertility or reproductive issues, which can impact their family life and relationships."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This sign is often associated with a lack of fertility or reproductive issues.",
+      "what_it_means": "A person with a manatika sign may struggle with fertility or reproductive issues, which can impact their family life and relationships."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This sign is often associated with a lack of fertility or reproductive issues.",
+      "what_it_means": "A person with a manatika sign may struggle with fertility or reproductive issues, which can impact their family life and relationships."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This sign is often associated with a lack of fertility or reproductive issues.",
+      "what_it_means": "A person with a manatika sign may struggle with fertility or reproductive issues, which can impact their family life and relationships."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This sign is often associated with a lack of fertility or reproductive issues.",
+      "what_it_means": "A person with a manatika sign may struggle with fertility or reproductive issues, which can impact their family life and relationships."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign on the palm that indicates a person may be childless. This sign is often associated with a lack of fertility or reproductive issues.",
+      "what_it_means": "A person with a manatika sign may struggle with fertility or reproductive issues, which can impact their family life and relationships."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign on the palm that may indicate infertility or childlessness. This sign is often associated with a person's reproductive health.",
+      "what_it_means": "The presence of a manatika on the palm may suggest that the person may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign on the palm that may indicate infertility or childlessness. This sign is often associated with a person's reproductive health.",
+      "what_it_means": "The presence of a manatika on the palm may suggest that the person may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign on the palm that may indicate infertility or childlessness. This sign is often associated with a person's reproductive health.",
+      "what_it_means": "The presence of a manatika on the palm may suggest that the person may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign on the palm that may indicate infertility or childlessness. This sign is often associated with a person's reproductive health.",
+      "what_it_means": "The presence of a manatika on the palm may suggest that the person may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign on the palm that may indicate infertility or childlessness. This sign is often associated with a person's reproductive health.",
+      "what_it_means": "The presence of a manatika on the palm may suggest that the person may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign on the palm that may indicate infertility or childlessness. This sign is often associated with a person's reproductive health.",
+      "what_it_means": "The presence of a manatika on the palm may suggest that the person may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign on the palm that may indicate infertility or childlessness. This sign is often associated with a person's reproductive health.",
+      "what_it_means": "The presence of a manatika on the palm may suggest that the person may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a manatika is a sign on the palm that may indicate infertility or childlessness. This sign is often associated with a person's reproductive health.",
+      "what_it_means": "The presence of a manatika on the palm may suggest that the person may face challenges in conceiving or carrying a child to term."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign in palmistry that indicates a person may be childless. This sign is often associated with a lack of fertility.",
+      "what_it_means": "The presence of a manatika sign in a woman's palm may indicate that she will struggle with fertility or may be childless."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign in palmistry that indicates a person may be childless. This sign is often associated with a lack of fertility.",
+      "what_it_means": "The presence of a manatika sign in a woman's palm may indicate that she will struggle with fertility or may be childless."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign in palmistry that indicates a person may be childless. This sign is often associated with a lack of fertility.",
+      "what_it_means": "The presence of a manatika sign in a woman's palm may indicate that she will struggle with fertility or may be childless."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign in palmistry that indicates a person may be childless. This sign is often associated with a lack of fertility.",
+      "what_it_means": "The presence of a manatika sign in a woman's palm may indicate that she will struggle with fertility or may be childless."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign in palmistry that indicates a person may be childless. This sign is often associated with a lack of fertility.",
+      "what_it_means": "The presence of a manatika sign in a woman's palm may indicate that she will struggle with fertility or may be childless."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign in palmistry that indicates a person may be childless. This sign is often associated with a lack of fertility.",
+      "what_it_means": "The presence of a manatika sign in a woman's palm may indicate that she will struggle with fertility or may be childless."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign in palmistry that indicates a person may be childless. This sign is often associated with a lack of fertility.",
+      "what_it_means": "The presence of a manatika sign in a woman's palm may indicate that she will struggle with fertility or may be childless."
+    },
+    {
+      "page": "page 79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "A manatika is a sign in palmistry that indicates a person may be childless. This sign is often associated with a lack of fertility.",
+      "what_it_means": "The presence of a manatika sign in a woman's palm may indicate that she will struggle with fertility or may be childless."
+    },
+    {
+      "page": "79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a 'manatika' refers to a specific sign or mark on the palm. Its presence can indicate childlessness.",
+      "what_it_means": "The presence of a manatika sign on the palm may suggest that the person may face challenges in conceiving or may not have children."
+    },
+    {
+      "page": "79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a 'manatika' refers to a specific sign or mark on the palm. Its presence can indicate childlessness.",
+      "what_it_means": "The presence of a manatika sign on the palm may suggest that the person may face challenges in conceiving or may not have children."
+    },
+    {
+      "page": "79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a 'manatika' refers to a specific sign or mark on the palm. Its presence can indicate childlessness.",
+      "what_it_means": "The presence of a manatika sign on the palm may suggest that the person may face challenges in conceiving or may not have children."
+    },
+    {
+      "page": "79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a 'manatika' refers to a specific sign or mark on the palm. Its presence can indicate childlessness.",
+      "what_it_means": "The presence of a manatika sign on the palm may suggest that the person may face challenges in conceiving or may not have children."
+    },
+    {
+      "page": "79",
+      "term": "Manatika",
+      "original": "If she has the sign of a manatika is the palm she will be childless.",
+      "simple_explanation": "In palmistry, a 'manatika' refers to a specific sign or mark on the palm. Its presence can indicate childlessness.",
+      "what_it_means": "The presence of a manatika sign on the palm may suggest that the person may face challenges in conceiving or may not have children."
+    },
+    {
+      "page": "80",
+      "term": "Thumb",
+      "original": "Thumb - A single line in the top joint indicates that she will have mere enjoyment, while many lines there indicate that she will be strong in sexual enjoyment, but will have distress.",
+      "simple_explanation": "The thumb line in palmistry can indicate the person's enjoyment and sexual satisfaction. A single line suggests mere enjoyment, while multiple lines suggest strong satisfaction but also distress.",
+      "what_it_means": "A single line on the thumb may indicate that the person may experience fleeting pleasures, while multiple lines may suggest intense satisfaction but also emotional turmoil."
+    },
+    {
+      "page": "80",
+      "term": "Clock-wise Whorl",
+      "original": "A clock-wise whorl on the top joint of the thumb indicates that she will have wealth, while a counter-clockwise one, long life; and a fold adulter.",
+      "simple_explanation": "In palmistry, a clock-wise whorl on the thumb can indicate wealth, while a counter-clockwise whorl suggests long life. A fold may indicate infidelity.",
+      "what_it_means": "A clock-wise whorl on the thumb may suggest that the person will accumulate wealth, while a counter-clockwise whorl may indicate a long and healthy life."
+    },
+    {
+      "page": "81",
+      "term": "Little Finger",
+      "original": "[Details for the little finger are not available in the extant manuscripts.] Next.",
+      "simple_explanation": "Unfortunately, the palmistry details for the little finger are not available in the existing manuscripts.",
+      "what_it_means": "No interpretation is available for the little finger in this text."
+    },
+    {
+      "page": "87",
+      "term": "Trident Line",
+      "original": "A trident line on the forehead indicates that she will live like the Goddess of Prosperity with thousand women serving her.",
+      "simple_explanation": "A trident line on the forehead suggests a person who is highly respected and admired by many. They may have a strong sense of authority and be surrounded by admirers.",
+      "what_it_means": "This feature reveals a person who is revered and admired by many, often surrounded by people who look up to them."
+    }
+  ]
+}

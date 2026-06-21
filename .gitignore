@@ -4,3 +4,12 @@ processed/
 __pycache__/
 *.pyc
 .env
+
+# Large PDFs
+*.pdf
+Hasth Rekha Shastra/
+hasta samudrika lakshana/
+samudrika dataset.zip
+
+# Excel output (regeneratable)
+data_sets/output/*.xlsx
