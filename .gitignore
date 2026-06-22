@@ -11,5 +11,5 @@ Hasth Rekha Shastra/
 hasta samudrika lakshana/
 samudrika dataset.zip
 
-# Excel output (regeneratable)
-data_sets/output/*.xlsx
+# Excel outputs — tracked
+# data_sets/output/*.xlsx
